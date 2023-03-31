@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/vpnLib/build/
+/vpnLib/build/intermediates/javac/debug/classes/
